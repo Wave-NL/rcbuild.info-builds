@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "ImpulseRC/Warpquad-230mm",
+    "esc": "DYS/Mini-20A",
+    "motor": "T-Motor/MN2204-2300kv",
+    "fc": "AbuseMark/Acro-Naze32",
+    "prop": [
+      "HQProp/6x4.5-FG-DD"
+    ],
+    "arm": "ImpulseRC/String-Theory----4x12mm-Arm-(for-230mm-Frame)",
+    "battery": [
+      "Tattu/4S-1800mAh-75C"
+    ],
+    "osd": "",
+    "receiver": "FrSky/TFR4-B",
+    "flightcam": "",
+    "hqcam": "",
+    "videotx": "",
+    "blackbox": "",
+    "voltagereg": "Pololu/D24V6F5"
+  },
+  "version": 1
 }
