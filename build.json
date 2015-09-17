@@ -9,7 +9,8 @@
     ],
     "arm": "ImpulseRC/String-Theory----4x12mm-Arm-(for-230mm-Frame)",
     "battery": [
-      "Tattu/4S-1800mAh-75C"
+      "Tattu/4S-1800mAh-75C",
+      "Tattu/4S-1550mAh-45C"
     ],
     "osd": "",
     "receiver": "FrSky/TFR4-B",
